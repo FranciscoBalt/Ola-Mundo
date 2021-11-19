@@ -17,9 +17,9 @@ Lista numerada:
 
 Lista de tarefas:
 
-[] Ir às compras
+[ ] Ir às compras
 [x] Ir ao dentista
-[] Jantar fora
+[ ] Jantar fora
 
 
 Lista demarcada:
