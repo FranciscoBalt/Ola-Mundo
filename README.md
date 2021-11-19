@@ -11,7 +11,7 @@ Lista numerada:
 
 1. Acordar
 1. Tomar banho
-  5. asdfre
+   5. asdfre
 3. Tomar o pequeno almoço
 4. Sair de casa
 
