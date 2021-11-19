@@ -11,9 +11,10 @@ Lista numerada:
 
 1. Acordar
 1. Tomar banho
-   5. asdfre
+   1. asdfre
+   5. gt4h 
 3. Tomar o pequeno almoço
-4. Sair de casa
+65. Sair de casa
 
 
 Lista de tarefas:
